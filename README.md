@@ -18,7 +18,7 @@ To install the required dependencies, run "npm install" in the terminal.
 To start the server, run "npm start" in the terminal. to access the app after starting the server, navigate to http://localhost:3000/ in the browser
 
 ## Example
-Deployed Application:
+Deployed Application: https://stark-spire-19008.herokuapp.com/
 
 Example Screenshot: 
 ![](./public/assets/images/budget-tracker.png)
